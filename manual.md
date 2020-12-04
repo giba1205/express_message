@@ -7,3 +7,5 @@ $$ git init
 
 .gitignore を作成
 # node_modules
+# commit
+ソース管理画面を開いて、メッセージを入力
