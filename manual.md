@@ -9,3 +9,5 @@ $$ git init
 # node_modules
 # commit
 ソース管理画面を開いて、メッセージを入力
+
+http://localhost:3000
